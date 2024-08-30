@@ -1,1 +1,1 @@
-# Asynchronous-flip-flop
+# Asynchronous-FIFO
